@@ -23,3 +23,6 @@ Utilized a variety of custom visualizations including bar charts, pie charts, do
 
 **User-Friendly Design:**
 Designed for a visually appealing and user-friendly experience with icons and easy-to-read layouts.
+
+Sales Overview DASHBOARD
+<img width="1470" alt="Screenshot 2024-12-15 at 6 30 15 PM" src="https://github.com/user-attachments/assets/f9c9f6de-4f4e-42bd-8fea-94ef925b42a3" />
